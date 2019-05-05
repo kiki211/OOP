@@ -54,3 +54,4 @@ print(emp_1.pay)
 
 print(repr(emp_1))
 print(str(emp_1))
+print('My push is successful')
